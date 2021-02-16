@@ -1,12 +1,12 @@
 # BlockChain_on_Python
 
-## Whithout venv
+## Without venv
 
 1. Install this project on your PC
 2. Open Terminal
 3. Start project to command 'python3 main.py'
 
-## Whith venv
+## With venv
 
 1. Install this project on your PC
 2. Open Terminal
